@@ -7,7 +7,7 @@ This project analyzes EV charging usage patterns, grid load behavior, and peak r
 - `ev_charging_station_usage_grid_load.csv` → source dataset
 - `ev_charging_analysis.ipynb` → Python EDA + feature engineering
 - `ev_charging_analysis.sql` → SQL analytics queries
-- `EV_Charging_Analysis.pbix` → Power BI dashboard
+- `dashboard.png` → Power BI dashboard
 - `README.md` → project documentation
 
 ## 🛠️ Tech Stack
